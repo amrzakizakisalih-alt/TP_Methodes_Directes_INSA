@@ -6,7 +6,7 @@ The project focuses on the numerical resolution of linear systems using direct n
 ---
 ## Project Structure
 
-    ```text
+    
     TP_Methodes_Directes_INSA/
     │
     ├── Codes finaux/
