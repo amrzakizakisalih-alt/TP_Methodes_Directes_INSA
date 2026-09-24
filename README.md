@@ -52,11 +52,12 @@ It contains the theoretical background, methodology, implementations, experiment
 
 ## Authors and Acknowledgements :
 
-Amr Zaki Salih
+**Amr Zaki Salih**
 
-Mouad Sheradj Drissi
+**Mouad Sheradj Drissi**
 
-Academic Advisor: Mr. A. Tonnoir — INSA Rouen Normandie
+Academic Advisor: **Mr. A. Tonnoir** — INSA Rouen Normandie
+
 --- 
 ## Institution
 
